@@ -1,7 +1,20 @@
 {
  "updated": "2026-07-13",
- "count": 351,
+ "count": 353,
  "items": [
+  {
+   "law": "디자인보호법",
+   "field": "디자인",
+   "cat": "시행규칙",
+   "year": "2026",
+   "eff": "2026-06-17",
+   "art": "별지 제3호서식 등(기재방법)",
+   "title": "디자인등록출원서·디자인등록증 서식",
+   "sum": "과제고유번호에 IRIS 추가(NTIS→NTIS+IRIS) · 디자인등록증 서식 정비",
+   "label": "과제고유번호 IRIS 추가(NTIS+IRIS) · 디자인등록증 서식 정비",
+   "ct": "개정",
+   "url": ""
+  },
   {
    "law": "상표법",
    "field": "상표",
@@ -27,6 +40,19 @@
    "label": "심사유예 취하·변경 기간제한 폐지 · IRIS 과제번호 추가",
    "ct": "수정",
    "url": "https://koreapatentinsider.blogspot.com/2026/07/2026-patent-law-amendments.html"
+  },
+  {
+   "law": "상표법",
+   "field": "상표",
+   "cat": "시행규칙",
+   "year": "2026",
+   "eff": "2026-02-03",
+   "art": "별지 제1호서식(기재요령)",
+   "title": "상표등록출원서·국제출원 서식",
+   "sum": "국제출원 대리인 성명 국문 허용 · 상표출원료 수수료 가산기준(지정상품 20→10개) 반영",
+   "label": "국제출원 대리인 성명 국문 허용 · 상표출원료 가산기준 지정상품 20→10개",
+   "ct": "개정",
+   "url": "https://koreapatentinsider.blogspot.com/2026/07/2026-trademark-law-amendments.html"
   },
   {
    "law": "디자인보호법",
