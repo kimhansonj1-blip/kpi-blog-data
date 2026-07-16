@@ -1,11 +1,11 @@
 {
- "updated": "2026-07-13",
+ "updated": "2026-07-17",
  "categories": [
   {
    "name": "법령 개정",
    "posts": [
     {
-     "t": "2026년 특허·실용신안 개정 정리 (2026. 07. 13. 기준)",
+     "t": "2026년 특허·실용신안 개정 정리",
      "u": "https://koreapatentinsider.blogspot.com/2026/07/2026-patent-law-amendments.html",
      "key": "특허법_2026"
     },
@@ -50,7 +50,7 @@
      "key": "특허법_2018"
     },
     {
-     "t": "2026년 상표 개정 정리 (2026. 07. 13. 기준)",
+     "t": "2026년 상표 개정 정리",
      "u": "https://koreapatentinsider.blogspot.com/2026/07/2026-trademark-law-amendments.html",
      "key": "상표법_2026"
     },
@@ -85,7 +85,7 @@
      "key": "상표법_2020"
     },
     {
-     "t": "2026년 디자인 개정 정리 (2026. 07. 13. 기준)",
+     "t": "2026년 디자인 개정 정리",
      "u": "https://koreapatentinsider.blogspot.com/2026/07/2026-design-law-amendments.html",
      "key": "디자인보호법_2026"
     },
@@ -150,6 +150,10 @@
   {
    "name": "AI 변리사",
    "posts": [
+    {
+     "t": "변리사의 AI 직원들 #2 — 다국어 웹사이트와 블로그를 지키는 운영 담당",
+     "u": "https://koreapatentinsider.blogspot.com/2026/07/ai-staff-2-web-blog-manager.html"
+    },
     {
      "t": "변리사의 AI 직원들 #1 — 다섯 AI를 지휘하는 총괄 관리자",
      "u": "https://koreapatentinsider.blogspot.com/2026/06/ai-staff-1-orchestrator.html"
