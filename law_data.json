@@ -1,6 +1,6 @@
 {
  "updated": "2026-07-20",
- "count": 353,
+ "count": 358,
  "items": [
   {
    "law": "디자인보호법",
@@ -39,6 +39,71 @@
    "sum": "「특허출원심사의 유예」 수정",
    "label": "심사유예 취하·변경 기간제한 폐지 · IRIS 과제번호 추가",
    "ct": "수정",
+   "url": "https://koreapatentinsider.blogspot.com/2026/07/2026-patent-law-amendments.html"
+  },
+  {
+   "law": "특허법",
+   "field": "특허·실용신안",
+   "cat": "고시",
+   "year": "2026",
+   "eff": "2026-02-23",
+   "art": "제4조제2항제3호",
+   "title": "창업기업 첨단기술 초고속심사",
+   "sum": "창업기업의 첨단기술 분야 출원을 초고속심사 대상으로 신설",
+   "label": "창업기업 초고속심사 신설·우선심사 대상 확대",
+   "ct": "신설",
+   "url": "https://koreapatentinsider.blogspot.com/2026/07/2026-patent-law-amendments.html"
+  },
+  {
+   "law": "특허법",
+   "field": "특허·실용신안",
+   "cat": "고시",
+   "year": "2026",
+   "eff": "2026-02-23",
+   "art": "—",
+   "title": "수출촉진 초고속심사·우선심사 대상 확대",
+   "sum": "중소벤처기업부 해외진출 창업기업 지원사업 참여 결과물 출원도 수출촉진 직접 관련 출원으로 인정",
+   "label": "창업기업 초고속심사 신설·우선심사 대상 확대",
+   "ct": "개정",
+   "url": "https://koreapatentinsider.blogspot.com/2026/07/2026-patent-law-amendments.html"
+  },
+  {
+   "law": "특허법",
+   "field": "특허·실용신안",
+   "cat": "고시",
+   "year": "2026",
+   "eff": "2026-02-23",
+   "art": "별표 1",
+   "title": "대학·공공연 창업 우선심사 도입",
+   "sum": "대학·공공연 또는 소속 직원이 보유기술을 활용해 창업 준비 중인 출원을 '업으로서 실시'로 인정",
+   "label": "창업기업 초고속심사 신설·우선심사 대상 확대",
+   "ct": "신설",
+   "url": "https://koreapatentinsider.blogspot.com/2026/07/2026-patent-law-amendments.html"
+  },
+  {
+   "law": "특허법",
+   "field": "특허·실용신안",
+   "cat": "고시",
+   "year": "2026",
+   "eff": "2026-02-23",
+   "art": "—",
+   "title": "조약우선권기초출원 우선심사 정비",
+   "sum": "우선심사 악용 의심사례 방지를 위해 수수료 납부 영수증 등 증명서류의 번역문 제출을 의무화",
+   "label": "창업기업 초고속심사 신설·우선심사 대상 확대",
+   "ct": "개정",
+   "url": "https://koreapatentinsider.blogspot.com/2026/07/2026-patent-law-amendments.html"
+  },
+  {
+   "law": "특허법",
+   "field": "특허·실용신안",
+   "cat": "고시",
+   "year": "2026",
+   "eff": "2026-02-23",
+   "art": "—",
+   "title": "자기실시 우선심사 정비",
+   "sum": "출원발명의 실시 여부를 명확히 확인하기 위해 '출원발명과 실시발명 간 대비표'를 증명서류에 추가",
+   "label": "창업기업 초고속심사 신설·우선심사 대상 확대",
+   "ct": "개정",
    "url": "https://koreapatentinsider.blogspot.com/2026/07/2026-patent-law-amendments.html"
   },
   {
