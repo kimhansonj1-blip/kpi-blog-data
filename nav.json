@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-17",
+ "updated": "2026-07-20",
  "categories": [
   {
    "name": "법령 개정",
@@ -125,7 +125,7 @@
    "name": "한국특허출원",
    "posts": [
     {
-     "t": "명세서 변환기 — 워드로 쓴 명세서를 전자출원 파일로 한 번에 (베타테스트 중)",
+     "t": "특허 명세서 변환기 — 워드로 쓴 명세서를 전자출원 파일로 한 번에 (베타테스트 중)",
      "u": "https://koreapatentinsider.blogspot.com/2026/06/word-spec-converter.html"
     },
     {
