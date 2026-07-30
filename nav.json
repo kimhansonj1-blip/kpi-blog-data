@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27",
+ "updated": "2026-07-31",
  "categories": [
   {
    "name": "법령 개정",
@@ -150,6 +150,10 @@
   {
    "name": "AI 변리사",
    "posts": [
+    {
+     "t": "변리사의 AI 직원들 #4 — 대학 기술을 시장으로 잇는 기술사업화 실무",
+     "u": "https://koreapatentinsider.blogspot.com/2026/07/ai-staff-4-tech-transfer.html"
+    },
     {
      "t": "변리사의 AI 직원들 #3 — 특허 명세서를 짓는 실무 보조",
      "u": "https://koreapatentinsider.blogspot.com/2026/07/ai-staff-3-patent-spec-assistant.html"
