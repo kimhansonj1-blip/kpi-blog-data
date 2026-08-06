@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03",
+ "updated": "2026-08-07",
  "categories": [
   {
    "name": "법령 개정",
@@ -125,7 +125,7 @@
    "name": "한국특허출원",
    "posts": [
     {
-     "t": "특허 명세서 변환기 — 워드로 쓴 명세서를 전자출원 파일로 한 번에 (베타테스트 중)",
+     "t": "특허 명세서 변환기 — 워드로 쓴 명세서를 전자출원 파일로 한 번에",
      "u": "https://koreapatentinsider.blogspot.com/2026/06/word-spec-converter.html"
     },
     {
@@ -150,6 +150,10 @@
   {
    "name": "AI 변리사",
    "posts": [
+    {
+     "t": "변리사의 AI 직원들 #5 — 업무용 프로그램을 직접 만드는 개발 담당",
+     "u": "https://koreapatentinsider.blogspot.com/2026/08/ai-staff-5-app-developer.html"
+    },
     {
      "t": "변리사의 AI 직원들 #4 — 대학 기술을 시장으로 잇는 기술사업화 실무",
      "u": "https://koreapatentinsider.blogspot.com/2026/07/ai-staff-4-tech-transfer.html"
