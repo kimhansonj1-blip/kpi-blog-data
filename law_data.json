@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-02",
- "count": 437,
+ "updated": "2026-11-09",
+ "count": 441,
  "items": [
   {
    "law": "디자인보호법",
@@ -104,6 +104,58 @@
    "sum": "자연인 주소를 공보에 시·군·구까지만 게재 원칙화 — 본인 신청 시에만 전부 게재",
    "label": "공보 주소 게재 원칙 전환 — 자연인 특허권자·출원인·발명자 주소는 시·군·구까지만(신청 시 전부)",
    "ct": "수정",
+   "url": "https://koreapatentinsider.blogspot.com/2026/07/2026-patent-law-amendments.html"
+  },
+  {
+   "law": "특허법",
+   "field": "특허·실용신안",
+   "cat": "고시",
+   "year": "2026",
+   "eff": "2026-11-01",
+   "art": "—",
+   "title": "청년창업자 초고속심사 신설",
+   "sum": "청년창업기업·예비청년창업자의 출원을 초고속심사 대상으로 신설",
+   "label": "청년창업자 초고속심사 신설·창업기업·대학 우선심사 확대",
+   "ct": "신설",
+   "url": "https://koreapatentinsider.blogspot.com/2026/07/2026-patent-law-amendments.html"
+  },
+  {
+   "law": "특허법",
+   "field": "특허·실용신안",
+   "cat": "고시",
+   "year": "2026",
+   "eff": "2026-11-01",
+   "art": "—",
+   "title": "창업기업 우선심사 요건 완화",
+   "sum": "정부 출연·보조·투자를 받은 창업기업 인정 범위를 창업 후 3년 이내 → 7년 이내로 확대",
+   "label": "청년창업자 초고속심사 신설·창업기업·대학 우선심사 확대",
+   "ct": "개정",
+   "url": "https://koreapatentinsider.blogspot.com/2026/07/2026-patent-law-amendments.html"
+  },
+  {
+   "law": "특허법",
+   "field": "특허·실용신안",
+   "cat": "고시",
+   "year": "2026",
+   "eff": "2026-11-01",
+   "art": "—",
+   "title": "대학 국가연구개발성과 우선심사 확대",
+   "sum": "대학이 수행한 국가연구개발과제 결과물에 관한 출원을 우선심사 대상에 추가",
+   "label": "청년창업자 초고속심사 신설·창업기업·대학 우선심사 확대",
+   "ct": "개정",
+   "url": "https://koreapatentinsider.blogspot.com/2026/07/2026-patent-law-amendments.html"
+  },
+  {
+   "law": "특허법",
+   "field": "특허·실용신안",
+   "cat": "고시",
+   "year": "2026",
+   "eff": "2026-11-01",
+   "art": "—",
+   "title": "증명서류 구체화 및 표현 정비",
+   "sum": "우선심사 신청이유별 증명서류를 구체화하고 불명확한 표현·인용 조문·오기 정비",
+   "label": "청년창업자 초고속심사 신설·창업기업·대학 우선심사 확대",
+   "ct": "개정",
    "url": "https://koreapatentinsider.blogspot.com/2026/07/2026-patent-law-amendments.html"
   },
   {
