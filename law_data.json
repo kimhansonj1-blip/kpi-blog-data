@@ -1,6 +1,6 @@
 {
  "updated": "2026-11-16",
- "count": 441,
+ "count": 448,
  "items": [
   {
    "law": "디자인보호법",
@@ -13,7 +13,7 @@
    "sum": "회복 요건 '정당한 사유'→'고의가 아닌 경우'로 완화, 만료일부터 1년 내 총리령 금액 납부로 회복 신청",
    "label": "등록료 미납으로 포기·소멸된 출원·디자인권의 회복 요건 완화(고의 아니면 1년 내 회복 신청)",
    "ct": "수정",
-   "url": ""
+   "url": "https://koreapatentinsider.blogspot.com/2026/09/2027-design-law-amendments.html"
   },
   {
    "law": "디자인보호법",
@@ -26,7 +26,7 @@
    "sum": "설정등록 사유 4호를 '제84조제1항에 따라 정하여진 금액을 냈을 때'로 정비",
    "label": "등록료 미납으로 포기·소멸된 출원·디자인권의 회복 요건 완화(고의 아니면 1년 내 회복 신청)",
    "ct": "수정",
-   "url": ""
+   "url": "https://koreapatentinsider.blogspot.com/2026/09/2027-design-law-amendments.html"
   },
   {
    "law": "특허법",
@@ -39,7 +39,7 @@
    "sum": "회복 요건 '정당한 사유'→'고의가 아닌 경우'로 완화, 만료일부터 1년 내 총리령 금액 납부로 회복 신청",
    "label": "특허료 미납으로 포기·소멸된 출원·특허권의 회복 요건 완화(고의 아니면 1년 내 회복 신청)",
    "ct": "수정",
-   "url": ""
+   "url": "https://koreapatentinsider.blogspot.com/2026/09/2027-patent-law-amendments.html"
   },
   {
    "law": "특허법",
@@ -52,7 +52,7 @@
    "sum": "설정등록 사유 4호를 '제81조의3제1항에 따라 정하여진 금액을 냈을 때'로 정비",
    "label": "특허료 미납으로 포기·소멸된 출원·특허권의 회복 요건 완화(고의 아니면 1년 내 회복 신청)",
    "ct": "수정",
-   "url": ""
+   "url": "https://koreapatentinsider.blogspot.com/2026/09/2027-patent-law-amendments.html"
   },
   {
    "law": "디자인보호법",
@@ -221,6 +221,97 @@
    "sum": "「특허출원심사의 유예」 수정",
    "label": "심사유예 취하·변경 기간제한 폐지 · IRIS 과제번호 추가",
    "ct": "수정",
+   "url": "https://koreapatentinsider.blogspot.com/2026/07/2026-patent-law-amendments.html"
+  },
+  {
+   "law": "특허법",
+   "field": "특허·실용신안",
+   "cat": "심사기준",
+   "year": "2026",
+   "eff": "2026-03-13",
+   "art": "—",
+   "title": "존속기간 연장등록출원 법령 개정 반영",
+   "sum": "허가등에 따른 존속기간 연장등록출원 관련 연장 가능한 특허권 개수, 특허권 존속기간의 상한 등 특허법령 개정사항 반영",
+   "label": "법령·우선심사 고시 개정사항 및 대법원 판례 반영",
+   "ct": "개정",
+   "url": "https://koreapatentinsider.blogspot.com/2026/07/2026-patent-law-amendments.html"
+  },
+  {
+   "law": "특허법",
+   "field": "특허·실용신안",
+   "cat": "심사기준",
+   "year": "2026",
+   "eff": "2026-03-13",
+   "art": "—",
+   "title": "의견서 제출기간",
+   "sum": "출원인의 의견서 제출기간에 관한 시행규칙 개정사항 반영",
+   "label": "법령·우선심사 고시 개정사항 및 대법원 판례 반영",
+   "ct": "개정",
+   "url": "https://koreapatentinsider.blogspot.com/2026/07/2026-patent-law-amendments.html"
+  },
+  {
+   "law": "특허법",
+   "field": "특허·실용신안",
+   "cat": "심사기준",
+   "year": "2026",
+   "eff": "2026-03-13",
+   "art": "—",
+   "title": "우선심사 고시 개정 반영",
+   "sum": "초고속 심사 도입 등 우선심사 신청에 관한 고시 개정사항 반영",
+   "label": "법령·우선심사 고시 개정사항 및 대법원 판례 반영",
+   "ct": "개정",
+   "url": "https://koreapatentinsider.blogspot.com/2026/07/2026-patent-law-amendments.html"
+  },
+  {
+   "law": "특허법",
+   "field": "특허·실용신안",
+   "cat": "심사기준",
+   "year": "2026",
+   "eff": "2026-03-13",
+   "art": "—",
+   "title": "공지예외 주장 판례 반영",
+   "sum": "공지예외 주장 관련 대법원 판례 반영",
+   "label": "법령·우선심사 고시 개정사항 및 대법원 판례 반영",
+   "ct": "개정",
+   "url": "https://koreapatentinsider.blogspot.com/2026/07/2026-patent-law-amendments.html"
+  },
+  {
+   "law": "특허법",
+   "field": "특허·실용신안",
+   "cat": "심사기준",
+   "year": "2026",
+   "eff": "2026-03-13",
+   "art": "—",
+   "title": "의약품 신물질 판례 반영",
+   "sum": "의약품에서 신물질에 대한 대법원 판례 반영",
+   "label": "법령·우선심사 고시 개정사항 및 대법원 판례 반영",
+   "ct": "개정",
+   "url": "https://koreapatentinsider.blogspot.com/2026/07/2026-patent-law-amendments.html"
+  },
+  {
+   "law": "특허법",
+   "field": "특허·실용신안",
+   "cat": "심사기준",
+   "year": "2026",
+   "eff": "2026-03-13",
+   "art": "—",
+   "title": "등록지연 존속기간 연장 예시 보강",
+   "sum": "등록지연에 따른 존속기간 연장제도에서 출원인 지연기간 산정에 대한 예시 보강",
+   "label": "법령·우선심사 고시 개정사항 및 대법원 판례 반영",
+   "ct": "개정",
+   "url": "https://koreapatentinsider.blogspot.com/2026/07/2026-patent-law-amendments.html"
+  },
+  {
+   "law": "특허법",
+   "field": "특허·실용신안",
+   "cat": "심사기준",
+   "year": "2026",
+   "eff": "2026-03-13",
+   "art": "—",
+   "title": "심층면담제도 정비",
+   "sum": "출원인·심사관 간 심층면담제도 정비 사항 반영",
+   "label": "법령·우선심사 고시 개정사항 및 대법원 판례 반영",
+   "ct": "개정",
    "url": "https://koreapatentinsider.blogspot.com/2026/07/2026-patent-law-amendments.html"
   },
   {
