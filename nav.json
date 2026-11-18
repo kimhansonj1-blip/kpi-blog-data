@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-18",
  "categories": [
   {
    "name": "법령 개정",
@@ -134,6 +134,14 @@
   {
    "name": "한국특허출원",
    "posts": [
+    {
+     "t": "특허 3인 협의심사 신청제 정리: 1차 심사결과에 이견이 있다면 심사관 3명에게 다시 검토받으세요",
+     "u": "https://koreapatentinsider.blogspot.com/2026/11/patent-three-examiner-consultative-examination-korea.html"
+    },
+    {
+     "t": "특허 신속결정 제도 정리: 등록 가능한 청구항만 남기면 최종 결과가 빨라집니다",
+     "u": "https://koreapatentinsider.blogspot.com/2026/11/patent-fast-final-decision-korea.html"
+    },
     {
      "t": "특허 명세서 변환기 — 워드로 쓴 명세서를 전자출원 파일로 한 번에",
      "u": "https://koreapatentinsider.blogspot.com/2026/06/word-spec-converter.html"
