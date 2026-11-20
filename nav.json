@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-20",
  "categories": [
   {
    "name": "법령 개정",
@@ -168,6 +168,10 @@
   {
    "name": "AI 변리사",
    "posts": [
+    {
+     "t": "변리사로서 AI 에이전트 처음 사용해보기",
+     "u": "https://koreapatentinsider.blogspot.com/2026/11/ai-agent-setup-guide.html"
+    },
     {
      "t": "변리사의 AI 직원들 #5 — 업무용 프로그램을 직접 만드는 개발 담당",
      "u": "https://koreapatentinsider.blogspot.com/2026/08/ai-staff-5-app-developer.html"
