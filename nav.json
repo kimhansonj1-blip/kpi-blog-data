@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-27",
  "categories": [
   {
    "name": "법령 개정",
@@ -168,6 +168,10 @@
   {
    "name": "AI 변리사",
    "posts": [
+    {
+     "t": "키프리스(KIPRIS) API, AI 에이전트에게 맡겨 쓰는 법",
+     "u": "https://koreapatentinsider.blogspot.com/2026/11/kipris-api-ai-agent.html"
+    },
     {
      "t": "변리사로서 AI 에이전트 처음 사용해보기",
      "u": "https://koreapatentinsider.blogspot.com/2026/11/ai-agent-setup-guide.html"
